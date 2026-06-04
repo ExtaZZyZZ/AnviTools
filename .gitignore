@@ -26,8 +26,6 @@ release/
 *.ilk
 *.idb
 
-# Qt deployment (windeployqt output)
-AnviTools с .exe файлом/
 
 # CMake (if ever migrated)
 CMakeFiles/
