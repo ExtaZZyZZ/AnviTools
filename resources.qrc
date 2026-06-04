@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/">
+        <file>resources/app_icon.png</file>
+        <file>resources/logo.png</file>
+        <file>resources/anvi_logo.png</file>
+        <file>resources/app.ico</file>
+        <file>resources/icon_read.png</file>
+        <file>resources/icon_write.png</file>
+        <file>resources/save.png</file>
+    </qresource>
+</RCC>

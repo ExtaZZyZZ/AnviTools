@@ -1,0 +1,42 @@
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+Makefile
+.qmake.cache
+.qmake.stash
+
+# Build output
+build/
+debug/
+release/
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.idb
+
+# Qt deployment (windeployqt output)
+AnviTools с .exe файлом/
+
+# CMake (if ever migrated)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
